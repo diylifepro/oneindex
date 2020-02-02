@@ -12,7 +12,7 @@
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">
 	<header class="nav">
 		<div class="navSize">
-			<a href="/"><img class="avatar" src="//q.qlogo.cn/g?b=qq&nk=791270330&s=100"/></a>
+			<a href="/"><img class="avatar" src="https://i.loli.net/2020/02/01/9LOeBh3xVUJsGr2.png"/></a>
 			<div class="navRight">
 				<ul class="navul">
 					<!-- <li class="navli"><a href="/images">图床</a></li> -->
