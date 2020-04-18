@@ -58,7 +58,7 @@ class IndexController{
 
 	function password($password){
 		if(!empty($_POST['password']) && strcmp($password, $_POST['password']) === 0){
-			setcookie(md5($this->path), $_POST['password']);
+			setcookie(md5($this->path), $_POST['password'], strtotime( '+180 days' ));
 			return true;
 		}
 		$navs = $this->navs();
